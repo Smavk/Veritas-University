@@ -505,12 +505,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </section>
-                <!-- /.content -->
             </div>
-            <!-- /.content-wrapper -->
-            <!-- Footer starts -->
             <footer class="main-footer">
                 <strong>
                      &copy 2022 Copyright <a href="https://www.veritas.edu.ng" class="text-success">Veritas University ICT</a>
