@@ -49,12 +49,6 @@
             <!-- /.navbar -->
             <!-- Main Sidebar Container -->
             <aside class="main-sidebar sidebar-dark-primary elevation-4" style="background-color: #218c74; color: #fff" v>
-                <!-- Brand Logo -->
-                <div class="bg-white text-center">
-                    <a class="navbar-brand" href="https://admissions.veritas.edu.ng/students/home">
-                        <img src="https://admissions.veritas.edu.ng/img/veritasin.jpg" alt="" width="170" height="60" class="px-2">
-                    </a>
-                </div>
                     <!-- Flash messages
     ======================================================================== -->
                     <!-- display input success if any exists -->
