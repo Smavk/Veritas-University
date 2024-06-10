@@ -42,14 +42,9 @@
                         </a>
                     </li>
                     <li></li>
-                </ul>
-                <!-- SEARCH FORM -->
-                <!-- Right navbar links -->
+                </ul> 
             </nav>
-            <!-- /.navbar -->
-            <!-- Main Sidebar Container -->
-            <aside class="main-sidebar sidebar-dark-primary elevation-4" style="background-color: #218c74; color: #fff" v>
-                    <!-- Flash messages
+                <!-- Flash messages
     ======================================================================== -->
                     <!-- display input success if any exists -->
                     <!-- display input message if any exists -->
